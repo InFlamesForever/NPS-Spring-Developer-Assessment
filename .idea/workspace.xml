@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="428a9916-8827-4b1d-82f3-f291b0aa3f39" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="428a9916-8827-4b1d-82f3-f291b0aa3f39" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/entity/WorkflowIdTaskStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/controller/TestsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/controller/TestsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/repo/WorkflowRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/repo/WorkflowRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/service/WorkflowRepoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/service/WorkflowRepoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/service/impl/WorkflowRepoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nps/devassessment/service/impl/WorkflowRepoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nps/devassessment/general/GeneralTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nps/devassessment/general/GeneralTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nps/devassessment/setup/SetupTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nps/devassessment/setup/SetupTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nps/devassessment/DevAssessmentApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nps/devassessment/DevAssessmentApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nps/devassessment/entity/WorkflowEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nps/devassessment/entity/WorkflowEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nps/devassessment/model/placement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nps/devassessment/model/placement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nps/devassessment/repo/WorkflowRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nps/devassessment/repo/WorkflowRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nps/devassessment/service/WorkflowRepoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nps/devassessment/service/WorkflowRepoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nps/devassessment/service/impl/WorkflowRepoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nps/devassessment/service/impl/WorkflowRepoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nps/devassessment/setup/SetupTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nps/devassessment/setup/SetupTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,120 +44,11 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="schema.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/schema.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ControllerTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/nps/devassessment/controller/ControllerTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestsController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nps/devassessment/controller/TestsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GeneralTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/nps/devassessment/general/GeneralTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SetupTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/nps/devassessment/setup/SetupTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WorkflowRepoService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nps/devassessment/service/WorkflowRepoService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WorkflowRepoServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nps/devassessment/service/impl/WorkflowRepoServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WorkflowEntity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nps/devassessment/entity/WorkflowEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WorkflowRepo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nps/devassessment/repo/WorkflowRepo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -149,6 +59,9 @@
     <replaceStrings>
       <replace>VARCHAR(250)</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -204,6 +117,7 @@
     <option name="width" value="2576" />
     <option name="height" value="1416" />
   </component>
+  <component name="ProjectId" id="1vU6ihWWzI4nOOYmykJxAQlTWEq" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -333,12 +247,18 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="H2" />
@@ -355,123 +275,148 @@
       <recent name="C:\Main\i2N\YJB Futures\Code\MoJ GIT\NPS Dev Assessment\src\main\java\com\nps\devassessment\entity" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.com.nps.devassessment in NPS Dev Assessment">
+  <component name="RunManager" selected="JUnit.GeneralTests.test3_shouldDemonstrateModifyingAValueFromWithinALambda">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="SetupTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NPS Dev Assessment" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneralTests.test1_shouldDemonstrateFilteringInLambdas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dev-assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nps.devassessment.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nps.devassessment.general" />
+      <option name="MAIN_CLASS_NAME" value="com.nps.devassessment.general.GeneralTests" />
+      <option name="METHOD_NAME" value="test1_shouldDemonstrateFilteringInLambdas" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneralTests.test2_shouldDemonstrateIdentificationOfMinAndMaxValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dev-assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nps.devassessment.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nps.devassessment.general" />
+      <option name="MAIN_CLASS_NAME" value="com.nps.devassessment.general.GeneralTests" />
+      <option name="METHOD_NAME" value="test2_shouldDemonstrateIdentificationOfMinAndMaxValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneralTests.test3_shouldDemonstrateModifyingAValueFromWithinALambda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dev-assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nps.devassessment.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nps.devassessment.general" />
+      <option name="MAIN_CLASS_NAME" value="com.nps.devassessment.general.GeneralTests" />
+      <option name="METHOD_NAME" value="test3_shouldDemonstrateModifyingAValueFromWithinALambda" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupTests.test2_shouldDemonstratePageableRepoCapability" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dev-assessment" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.nps.devassessment.setup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.nps.devassessment.setup" />
       <option name="MAIN_CLASS_NAME" value="com.nps.devassessment.setup.SetupTests" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="METHOD_NAME" value="test2_shouldDemonstratePageableRepoCapability" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="com.nps.devassessment in NPS Dev Assessment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NPS Dev Assessment" />
+    <configuration name="DevAssessmentApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dev-assessment" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.nps.devassessment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.nps.devassessment" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nps.devassessment.DevAssessmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DevAssessmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="NPS Dev Assessment" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.nps.devassessment.DevAssessmentApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Spring Boot.DevAssessmentApplication" />
-      <item itemvalue="JUnit.com.nps.devassessment in NPS Dev Assessment" />
-      <item itemvalue="JUnit.SetupTests" />
+      <item itemvalue="Spring Boot.DevAssessmentApplication (1)" />
+      <item itemvalue="JUnit.SetupTests.test2_shouldDemonstratePageableRepoCapability" />
+      <item itemvalue="JUnit.GeneralTests.test1_shouldDemonstrateFilteringInLambdas" />
+      <item itemvalue="JUnit.GeneralTests.test2_shouldDemonstrateIdentificationOfMinAndMaxValues" />
+      <item itemvalue="JUnit.GeneralTests.test3_shouldDemonstrateModifyingAValueFromWithinALambda" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.com.nps.devassessment in NPS Dev Assessment" />
-        <item itemvalue="JUnit.SetupTests" />
+        <item itemvalue="JUnit.GeneralTests.test3_shouldDemonstrateModifyingAValueFromWithinALambda" />
+        <item itemvalue="JUnit.GeneralTests.test2_shouldDemonstrateIdentificationOfMinAndMaxValues" />
+        <item itemvalue="JUnit.GeneralTests.test1_shouldDemonstrateFilteringInLambdas" />
+        <item itemvalue="Spring Boot.DevAssessmentApplication (1)" />
+        <item itemvalue="JUnit.SetupTests.test2_shouldDemonstratePageableRepoCapability" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -487,6 +432,7 @@
       <workItem from="1620719217152" duration="22469000" />
       <workItem from="1620994615283" duration="2590000" />
       <workItem from="1621243965267" duration="6736000" />
+      <workItem from="1626604450557" duration="7059000" />
     </task>
     <servers />
   </component>
@@ -599,22 +545,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/nps/devassessment/setup/SetupTests.java</url>
-          <line>29</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
